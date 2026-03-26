@@ -1,24 +1,11 @@
-Mechanism of Photobiomodulation
+Platform Operation Summary
 
-Photobiomodulation (PBM) is a method in which cells and tissues are exposed to low-intensity visible or near-infrared light. Unlike ablative procedures or systemic drug therapy, PBM aims to trigger endogenous repair and regulatory processes without causing macroscopic tissue destruction.
+Biolumos is built as a local-control system for configurable light sessions. The mobile app is used to connect to the device, choose output level, adjust pulse frequency, set timer values, and save reusable presets. The same session settings can then be started again from the app or triggered directly from the device.
 
-In practical terms, PBM usually refers to red or near-infrared light in a range of approximately 600-1100 nm. These wavelengths can pass through skin and superficial tissues more effectively than shorter wavelengths. A central target discussed in the literature is the mitochondrion, the organelle responsible for producing ATP, the cell's main energy currency. Adequate ATP availability supports repair, signaling, protein synthesis, and recovery from stress.
+At the hardware level, the controller drives four high-power LEDs and supports both continuous and pulsed output. The firmware can operate separate LED groups independently, which allows different timing patterns across the array when that behavior is enabled in the selected preset.
 
-One of the best described photoacceptor candidates is cytochrome c oxidase within the mitochondrial respiratory chain. According to major review articles, photon absorption may improve electron transport, increase mitochondrial membrane potential, raise ATP production, alter reactive oxygen species signaling, and modulate nitric oxide availability. These early events can then activate downstream transcription factors and cellular programs involved in proliferation, migration, antioxidant defense, and inflammatory regulation.
+The device also includes a vibration motor that can follow the active light pattern. This gives the user an additional tactile signal without requiring constant attention to the app interface.
 
-PBM is also discussed as a modulator of inflammatory biology. Published reviews report reductions in pro-inflammatory signaling under appropriate dosing conditions, together with upregulation of antioxidant defenses and changes in macrophage behavior. This is one reason PBM has been investigated in musculoskeletal, dermatologic, neurological, and rehabilitation settings.
+Wireless communication is handled through Bluetooth and Wi-Fi. Bluetooth is intended for nearby setup and direct device control, while Wi-Fi can be used for local-network interaction and firmware updates. The product is also designed to remain usable in standalone mode once preferred settings have been stored.
 
-Another frequently described effect is improved microcirculation. Nitric oxide signaling and vascular responses may contribute to vasodilation, helping oxygen and nutrients reach stressed tissues while supporting clearance of metabolic byproducts. In tissue repair contexts, this may contribute to recovery and reduction of edema.
-
-Transcranial PBM has also been investigated for brain-related applications. Reviews suggest that near-infrared light may reach superficial cortical tissues and influence mitochondrial metabolism, cerebral blood flow, and neuroinflammatory pathways. At the same time, the clinical evidence remains indication-specific: some studies report encouraging signals, while others, including a large sham-controlled stroke trial, did not demonstrate efficacy for the tested protocol. For that reason, PBM mechanisms should be described as biologically plausible and partially supported rather than universally proven for every clinical use.
-
-Abbreviations used in PBM diagrams: ATP (adenosine triphosphate), cAMP (cyclic adenosine monophosphate), Jun/Fos (components of the AP-1 transcription factor), AP-1 (activator protein 1), ROS (reactive oxygen species), PKD (protein kinase D), IkB/NF-kB signaling components, and NO (nitric oxide).
-
-Key background references:
-Chung H. et al. The nuts and bolts of low-level laser (light) therapy. Annals of Biomedical Engineering. 2012. DOI: 10.1007/s10439-011-0454-7
-de Freitas L.F., Hamblin M.R. Proposed Mechanisms of Photobiomodulation or Low-Level Light Therapy. IEEE Journal of Selected Topics in Quantum Electronics. 2016. DOI: 10.1109/JSTQE.2016.2561201
-Hamblin M.R. Mechanisms and applications of the anti-inflammatory effects of photobiomodulation. AIMS Biophysics. 2017. DOI: 10.3934/biophy.2017.3.337
-Hamblin M.R. Shining light on the head: Photobiomodulation for brain disorders. BBA Clinical. 2016. DOI: 10.1016/j.bbacli.2016.09.002
-Hacke W. et al. Transcranial Laser Therapy in Acute Stroke Treatment: Results of Neurothera Effectiveness and Safety Trial 3. Stroke. 2014. DOI: 10.1161/STROKEAHA.114.005795
-
-
+Key interface terms commonly used in project materials include preset, pulse frequency, output level, session timer, channel control, continuous mode, Bluetooth, Wi-Fi, firmware, and OTA update.

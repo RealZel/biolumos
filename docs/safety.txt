@@ -1,22 +1,13 @@
-Although photobiomodulation is generally considered a well-tolerated modality when used within appropriate parameters, side effects and misuse-related problems are still possible. The evidence base on adverse events is smaller than the mechanistic literature, so practical caution remains important.
+Biolumos is intended to be used as a consumer programmable light device, so practical handling and general light-safety precautions are important.
 
-Potential tissue overheating
-PBM uses low-intensity light, but prolonged exposure, inappropriate contact conditions, or incorrectly selected output settings can still cause local overheating. This is particularly relevant near sensitive structures such as the eyes or injured skin. When PBM devices are used correctly, thermal injury appears uncommon, but exposure of the eyes to near-infrared light must always be avoided.
+Light exposure
+Avoid directing the device toward the eyes. Start with shorter sessions and lower output settings if you are unfamiliar with the hardware. If the device or the contact area feels unusually warm, pause the session and let the unit cool before using it again.
 
-Incorrect dosing and paradoxical response
-PBM is known for a biphasic dose response: too little energy may have no meaningful effect, while too much may reduce the desired effect or worsen tolerance. In acute inflammation, infection, or highly sensitive tissue states, poorly chosen parameters may aggravate discomfort instead of reducing it. This is why protocol selection, session timing, and treatment duration matter.
+Device handling
+Inspect the housing, strap, and charging cable regularly. Do not use the device if the enclosure is cracked, if moisture has entered the unit, or if the USB-C connector is damaged. Charge the device only with suitable power sources and keep it away from water during operation and charging.
 
-Practical precautions
-- Consult a licensed physician before using the device, especially if you have an active medical condition.
-- Do not direct the light toward the eyes.
-- Do not use the device over areas with suspected malignancy unless specifically cleared by the treating physician.
-- Use additional caution in pregnancy, in children, in patients with photosensitivity, and in people with active fever or acute infection.
-- Stop use and seek medical advice if pain, redness, dizziness, or unusual discomfort increases.
+Comfort and supervision
+Stop use if you notice irritation, unusual heat, or discomfort. Children should use the device only with adult supervision. Store the device out of reach when not in use.
 
-Overall interpretation of the literature
-Review papers and controlled studies generally describe PBM as safe when power density, dose, exposure time, and anatomical target are chosen correctly. At the same time, safety does not guarantee efficacy for every indication. Large clinical trials in some areas, such as acute stroke, have shown acceptable tolerability but no clinical benefit for the tested protocol. Safety therefore needs to be considered separately from effectiveness.
-
-Selected references:
-Chung H. et al. The nuts and bolts of low-level laser (light) therapy. Annals of Biomedical Engineering. 2012. DOI: 10.1007/s10439-011-0454-7
-Hamblin M.R. Mechanisms and applications of the anti-inflammatory effects of photobiomodulation. AIMS Biophysics. 2017. DOI: 10.3934/biophy.2017.3.337
-Hacke W. et al. Transcranial Laser Therapy in Acute Stroke Treatment: Results of Neurothera Effectiveness and Safety Trial 3. Stroke. 2014. DOI: 10.1161/STROKEAHA.114.005795
+Operational interpretation
+Session comfort depends on output level, session duration, placement, and contact conditions. For that reason, it is best to begin with conservative settings and adjust gradually based on user preference and normal operating comfort.
