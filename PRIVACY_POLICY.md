@@ -12,7 +12,7 @@
 
 ## English
 
-Last updated: 26 March 2026
+Last updated: 4 July 2026
 
 This Privacy Policy describes how the Biolumos mobile application and related device workflows handle information. The app is intended to connect to and control the Biolumos programmable light device locally through Bluetooth and/or Wi-Fi.
 
@@ -46,14 +46,17 @@ Unless explicitly added in a later release and disclosed before that release, th
 - sale of personal data
 - advertising identifiers for behavioral advertising
 - automatic upload of session history to Biolumos servers
+- background location data
 
 ### Permissions and Why They May Be Needed
 
 - Bluetooth / Nearby devices: to discover, pair with, and control the Biolumos device
 - Local network / Wi-Fi: to connect to the device when Wi-Fi control is used
 - Notifications: to show timers, connection events, or device reminders if enabled
+- Location (Android below 12 only): some Android versions require location permission for BLE scanning. In Biolumos, this permission is used only to find nearby BLE devices.
 
-If a mobile operating system requests additional permission related to nearby-device discovery or Bluetooth behavior, that request is used only for device communication and not for location tracking by Biolumos.
+Biolumos does not request background location permission (ACCESS_BACKGROUND_LOCATION).
+Biolumos does not collect, store, or share precise or approximate location data.
 
 ### How We Use Information
 
@@ -114,7 +117,7 @@ Current public support channel referenced in project materials:
 
 ## Russian
 
-Дата обновления: 26 марта 2026 г.
+Дата обновления: 4 июля 2026 г.
 
 Настоящая Privacy Policy описывает, как мобильное приложение Biolumos и связанные с ним сценарии работы устройства обрабатывают информацию. Приложение предназначено прежде всего для локального подключения к программируемому световому устройству Biolumos и управления им по Bluetooth и/или Wi-Fi.
 
@@ -148,14 +151,17 @@ Biolumos — это приложение-компаньон для настро�
 - продажу персональных данных
 - использование рекламных идентификаторов для поведенческой рекламы
 - автоматическую загрузку истории сессий на серверы Biolumos
+- доступ к данным о местоположении в фоне
 
 ### Разрешения и зачем они могут понадобиться
 
 - Bluetooth / Nearby devices: для поиска, сопряжения и управления устройством Biolumos
 - Локальная сеть / Wi-Fi: для подключения к устройству в режиме Wi-Fi
 - Уведомления: для таймеров, событий подключения и напоминаний устройства, если они включены
+- Местоположение (только Android ниже 12): на части версий Android это разрешение технически требуется для BLE-сканирования. В Biolumos оно используется только для поиска ближайших BLE-устройств.
 
-Если мобильная ОС запрашивает дополнительные разрешения, связанные с обнаружением ближайших устройств или особенностями Bluetooth, они используются только для связи с устройством, а не для отслеживания местоположения со стороны Biolumos.
+Biolumos не запрашивает разрешение на доступ к местоположению в фоне (ACCESS_BACKGROUND_LOCATION).
+Biolumos не собирает, не хранит и не передает точные или приблизительные данные геолокации.
 
 ### Как используется информация
 
@@ -216,7 +222,7 @@ Biolumos — это приложение-компаньон для настро�
 
 ## Spanish
 
-Última actualización: 26 de marzo de 2026
+Última actualización: 4 de julio de 2026
 
 Esta Privacy Policy describe cómo la aplicación móvil Biolumos y los flujos relacionados con el dispositivo tratan la información. La aplicación está diseñada principalmente para conectarse al dispositivo programable de luz Biolumos y controlarlo localmente mediante Bluetooth y/o Wi-Fi.
 
@@ -250,14 +256,17 @@ Salvo que se añadan expresamente en una versión futura y se comuniquen antes d
 - venta de datos personales
 - identificadores publicitarios para publicidad comportamental
 - carga automática del historial de sesiones a servidores de Biolumos
+- datos de ubicación en segundo plano
 
 ### Permisos y por qué pueden ser necesarios
 
 - Bluetooth / Nearby devices: para detectar, emparejar y controlar el dispositivo Biolumos
 - Red local / Wi-Fi: para conectarse al dispositivo cuando se utiliza el modo Wi-Fi
 - Notificaciones: para temporizadores, eventos de conexión y recordatorios del dispositivo si están habilitados
+- Ubicación (solo en Android inferior a 12): algunas versiones de Android exigen este permiso para el escaneo BLE. En Biolumos se usa solo para buscar dispositivos BLE cercanos.
 
-Si el sistema operativo solicita permisos adicionales relacionados con el descubrimiento de dispositivos cercanos o el funcionamiento de Bluetooth, dichos permisos se utilizan únicamente para la comunicación con el dispositivo y no para el seguimiento de ubicación por parte de Biolumos.
+Biolumos no solicita permiso de ubicación en segundo plano (ACCESS_BACKGROUND_LOCATION).
+Biolumos no recopila, no almacena ni comparte datos de ubicación precisos o aproximados.
 
 ### Cómo usamos la información
 
